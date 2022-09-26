@@ -10,4 +10,4 @@
 
 > [Blackbox64Beta](https://apkadmin.com/trilcpntf51l/BB64-Beta.apk.html)
 
-*** [Readme of official repo](https://github.com/1-2-Tree/BlackBox/blob/master/README_01.md)***
+[Readme of official repo](https://github.com/1-2-Tree/BlackBox/blob/master/README_01.md)
